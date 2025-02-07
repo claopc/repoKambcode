@@ -1,0 +1,12 @@
+.mainForm{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.error{
+    color: red;
+    font-size: smaller;
+}
