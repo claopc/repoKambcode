@@ -1,0 +1,36 @@
+.mainCard{
+    border: 2px solid black;
+    border-radius: 15px; 
+    background-color: greenyellow;  
+    margin-bottom: 20px;  
+    width: 300px;  
+}
+
+.estado{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 180px;
+    height: 40px;
+    transform: translate(59px, -25px);
+    align-content: center;
+    font-weight: bold;
+    background: greenyellow;
+}
+
+.detalle{
+    font-weight: bold;
+}
+
+.imagen{
+    width: 100%;
+    border-bottom: 2px solid black;
+}
+
+h3{
+    margin-top: 0;
+}
+
+h4{
+  margin-top: 0;  
+}
