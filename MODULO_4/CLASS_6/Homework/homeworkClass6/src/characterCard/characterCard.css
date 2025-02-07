@@ -1,0 +1,41 @@
+.mainCard{
+   padding: 0px; 
+   border: 2px solid black;
+   border-radius: 20px;
+   width: 300px;
+   margin: 10px;
+}
+
+.image{
+    width: 100%;
+    background-color: greenyellow;
+    border-radius:  20px 20px 0 0;
+}
+
+.title{
+    font-family: fantasy;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.content{
+    padding: 20px;
+    background-color: greenyellow;
+    border-radius: 0 0 20px 20px;
+}
+
+.status{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 130px;
+    height: 30px;
+    position: absolute;
+    background-color: greenyellow;
+    transform: translate(65%, -70%);
+}
+
+img{
+    border-radius:  20px 20px 0 0;
+    border-bottom: 2px solid black;
+}
