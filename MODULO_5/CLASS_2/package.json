@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-tarea",
+  "version": "1.2.1",
+  "description": "Homework clase 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tarea",
+    "actividad",
+    "estudio"
+  ],
+  "author": "claopc",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chance": "^1.1.12",
+    "nodemon": "^3.1.9"
+  }
+}
